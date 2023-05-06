@@ -10,6 +10,7 @@ Cipher Box
 ## Features
 
 • This application uses Hive's built-in AES encryption algorithm to store the passwords.
+
 • Password are not visible, instead they are copied to clipboard.
 
 ## Screenshots
